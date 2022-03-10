@@ -1,0 +1,1 @@
+# Fa-a-um-algoritmo-que-receba-2-notas-nota1-com-peso-2-e-nota2-com-peso-3-e-depois-calcule-e-mostre
